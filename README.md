@@ -4,7 +4,7 @@ Meu nome é Gabriel Ferreira
 
 - Estou estudando na [Alura](https://www.alura.cpm.br)
 - Estou me desenvolvendo na linguagem JavaScript.
-- utilizo esse espaço para minha organização e compartilhaento dos meus projetos desenvolvidos (potifólios)
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos (potifólios)
 
   ### você pode entrar em contato comigo 📫
 
